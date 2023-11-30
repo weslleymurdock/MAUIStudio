@@ -1,0 +1,3 @@
+[submodule "sub/BlazorStudio"]
+	path = sub/BlazorStudio
+	url = https://github.com/huntercfreeman/BlazorStudio
